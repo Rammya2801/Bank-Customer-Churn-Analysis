@@ -1,2 +1,3 @@
-# Bank-Customer-Churn-Analysis
-I built a Customer Churn Analysis dashboard in Power BI to understand why bank customers leave and identify high-risk segments. Through data cleaning, DAX calculations, and interactive visuals, I transformed raw data into meaningful insights to support better retention decisions.
+# Bank Customer Churn Analysis | Power BI
+## Project Objective
+To analyze customer churn behavior using bank customer data and identify key factors influencing customer attrition. The goal is to provide data-driven insights that help improve customer retention strategies.
