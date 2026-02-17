@@ -35,7 +35,7 @@ To analyze customer churn behavior using bank customer data and identify key fac
 
 - Built a structured dashboard with slicers to analyze churn trends effectively.
 ## Dashboard
-"C:\Users\gk228\Downloads\churn analysis Dashboard_page-0001.jpg"(https://github.com/Rammya2801/Bank-Customer-Churn-Analysis/blob/7887eff910261b1e582bacbeebcc7b2187aec6b5/churn%20analysis%20Dashboard_page-0001.jpg)
+![Churn Dashboard](https://github.com/Rammya2801/Bank-Customer-Churn-Analysis/blob/7887eff910261b1e582bacbeebcc7b2187aec6b5/churn%20analysis%20Dashboard_page-0001.jpg)
 ## Project Insights
 
 - Overall churn rate is 20.4%.
