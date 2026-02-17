@@ -5,7 +5,7 @@ To analyze customer churn behavior using bank customer data and identify key fac
 -<a href="https://github.com/Rammya2801/Bank-Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20analysis.csv">Customer Dataset</a>
 ## Questions (KPIs)
 
--What is the total number of customers?
+- What is the total number of customers?
 
 -What is the overall churn rate?
 
@@ -38,14 +38,14 @@ To analyze customer churn behavior using bank customer data and identify key fac
 "C:\Users\gk228\Downloads\churn analysis Dashboard_page-0001.jpg"(https://github.com/Rammya2801/Bank-Customer-Churn-Analysis/blob/7887eff910261b1e582bacbeebcc7b2187aec6b5/churn%20analysis%20Dashboard_page-0001.jpg)
 ## Project Insights
 
-Overall churn rate is 20.4%.
+-Overall churn rate is 20.4%.
 
-Customers aged 31–40 show higher churn tendency.
+-Customers aged 31–40 show higher churn tendency.
 
-Inactive customers have significantly higher churn rates.
+-Inactive customers have significantly higher churn rates.
 
-Certain credit score ranges are more prone to churn.
+-Certain credit score ranges are more prone to churn.
 
-Account balance and country distribution impact churn behavior.
+-Account balance and country distribution impact churn behavior.
 ## Final Conclusion
 Customer churn is influenced by demographic and financial factors. By focusing on inactive customers and high-risk segments, the bank can implement proactive strategies to improve customer loyalty and long-term profitability.
